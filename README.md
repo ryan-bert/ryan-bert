@@ -4,7 +4,7 @@ Quantitative developer at Ironclad Asset Management in Johannesburg, where I bui
 
 ## Projects
 
-- [allocation-engine](https://github.com/ryan-bert/allocation-engine): a modular R backtesting engine for static allocations, with drift-based rebalancing, fees, cash interest, drawdowns and performance metrics.
+- [allocation-engine](https://github.com/ryan-bert/allocation-engine): a modular R backtesting engine for static allocations, with periodic rebalancing (weights drift between rebalance dates), fees, cash interest, drawdowns and performance metrics.
 - [microstructure-simulation](https://github.com/ryan-bert/microstructure-simulation): a limit order book and price-time priority matching engine in Python, with an HTTP server and CLI client.
 - [yield-curve](https://github.com/ryan-bert/yield-curve): static and animated US Treasury yield curves from FRED data.
 
