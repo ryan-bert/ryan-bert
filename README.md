@@ -1,11 +1,17 @@
-# Hi, I’m Ryan.
+# Ryan Bertschinger
 
-🚀 Quantitative Developer at Ironclad Asset Management | Passionate about quantitative finance, automation, and algorithmic decision-making.
+Quantitative developer at Ironclad Asset Management in Johannesburg, where I build and run the firm's data platform: the SQL database, internal API, data pipelines and AI tooling. Computer Science and Financial Risk Management graduate.
 
-- Background 📚 Computer Science & Financial Risk Management graduate, blending software engineering, data science, and finance to build robust systems.
-- Expertise 🔥 Python, R, SQL, Bloomberg API, financial modeling, automation, and data pipelines.
-- Recent Work 👨🏻‍💻 Engineered a fully automated financial data pipeline integrating Bloomberg, IBKR, APIs, and SQL, eliminating manual data handling.
+## Projects
 
-💡 Interests: Quantitative finance, trading algorithms, machine learning, and celestial mechanics.
+- [allocation-engine](https://github.com/ryan-bert/allocation-engine): a modular R backtesting engine for static allocations, with drift-based rebalancing, fees, cash interest, drawdowns and performance metrics.
+- [microstructure-simulation](https://github.com/ryan-bert/microstructure-simulation): a limit order book and price-time priority matching engine in Python, with an HTTP server and CLI client.
+- [yield-curve](https://github.com/ryan-bert/yield-curve): static and animated US Treasury yield curves from FRED data.
 
-Let’s connect: [LinkedIn](https://www.linkedin.com/in/ryan-bertschinger-458035211/) 💼 | [GitHub](https://github.com/ryan-bert) 👨‍💻 | [My Website](https://ryanbertschinger.com) ✌️
+## Open source
+
+- [oh-my-pi](https://github.com/can1357/oh-my-pi): [load subdirectory context files on first touch](https://github.com/can1357/oh-my-pi/pull/15393).
+
+Interests: quantitative finance, market microstructure, AI coding agents, and celestial mechanics.
+
+[LinkedIn](https://www.linkedin.com/in/ryan-bertschinger-458035211/) · [Website](https://ryanbertschinger.com)
